@@ -2,6 +2,22 @@ Renz Bryan Sampang
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+# Activity 1
+
+![Activity 1](/images/activity1.png)
+
+# Activities 2-5
+
+![Home Page](/images/activity5_1.png)
+
+![Results Page - Form](/images/activity5_2.png)
+
+![Results Page - Results Table](/images/activity5_3.png)
+
+# Activity 6
+
+One difference between the old and new styled UI is the layout of the search filters (by division, department, or campus). In the new styled UI, the "or" is clearly displayed on its own line between each of the filter options, making it more clear that not all the filters need to be used, and the user has a choice.
+
 # CARTE Education Pathways
 
 ## Description
